@@ -25,3 +25,29 @@ By studying the EBA’s practices, Zambia can learn, and modify the design and i
 Before we move on to the main subject of the topic let us briefly describe Zambia’s macroeconomic indicators, starting with population trends, which are crucial for understanding the country’s economic and social dynamics.
 
 ![Screenshot 2025-03-07 174355](https://github.com/user-attachments/assets/48a799e9-caa2-4f3d-9c4e-1d6886e17211)
+
+Zambia’s population has grown significantly over the past five decades, from 4.1 million in 1969 to 19.7 million in 2022. The annual population growth rate has remained relatively high, averaging around 3% per year over the past few decades, this is significantly higher than the global average, reflecting Zambia’s young population and high fertility rates.The forecasted population of 26.5 million by 2032 underscores the importance of ensuring financial stability in Zambia. A growing population means more people will need access to financial services, such as savings accounts, loans, and insurance. The financial sector must expand and innovate to meet this demand. Failure to do so could lead to financial exclusion, which can hinder economic growth and stability.
+
+If the government cannot meet these demands, it may resort to excessive borrowing, leading to higher public debt and potential fiscal instability. A stable financial system is essential to support sustainable public finances.
+
+
+
+
+### Stress Test: METHODOLOGY
+i.	Define Objectives and Scope
+
+ii.	Design Scenarios. 
+
+iii.	Collect and Prepare Data. 
+
+iv.	Develop and Apply Models. 
+
+v.	Run Simulations.
+
+vi.	Generate Reports and Recommendations.
+
+
+
+
+
+
