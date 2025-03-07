@@ -34,6 +34,9 @@ If the government cannot meet these demands, it may resort to excessive borrowin
 
 
 ### Stress Test: METHODOLOGY
+
+To conduct an effective stress test, especially one as comprehensive as the 2025 EU-wide stress test, a systematic and well-structured approach is required. In this research, we will explore and in detail study the 2025 EU-wide stress test framework. This involves several steps, from defining scenarios to integrating data and generating results. Below is a detailed breakdown of the process, including the macro indicators used, models applied, bank information required, and how these elements are integrated to produce actionable results. Then will define and build the the similar stress test framework in Zambian Pespective using similar criteria stated below.
+
 i.	Define Objectives and Scope
 
 ii.	Design Scenarios. 
